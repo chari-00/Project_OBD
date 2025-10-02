@@ -7,7 +7,6 @@
 
 An intelligent **predictive maintenance system** designed for commercial vehicle fleets that uses machine learning to analyze engine telemetry data and predict potential maintenance issues before they become critical failures.
 
-![System Demo](https://via.placeholder.com/800x400/667eea/ffffff?text=Predictive+Maintenance+System)
 
 ## 📋 Table of Contents
 
@@ -18,6 +17,8 @@ An intelligent **predictive maintenance system** designed for commercial vehicle
 - [⚙️ Installation & Setup](#️-installation--setup)
 - [🚀 Usage](#-usage)
 - [📈 Features](#-features)
+
+## DISCLAIMER: TO USE THE ENTIRE APPLICATION, GET TO [HUGGINGFACE](https://huggingface.co/chari-00/Project_OBD)
 
 ## 🎯 Project Overview
 
@@ -237,4 +238,5 @@ Click the **"🌙 Dark / ☀️ Light"** button to toggle between themes.
 - **3 Engineered Features** - Enhanced prediction accuracy
 - **Historical Analysis** - Based on 23,000+ data points
 - **Threshold Detection** - Industry-standard warning levels
+
 ---
