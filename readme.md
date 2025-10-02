@@ -19,6 +19,7 @@ An intelligent **predictive maintenance system** designed for commercial vehicle
 - [📈 Features](#-features)
 
 ## DISCLAIMER: TO USE THE ENTIRE APPLICATION, GET TO [HUGGINGFACE](https://huggingface.co/chari-00/Project_OBD)
+- ML Model is present only in huggingface and not here (main_project\random_forest_model-2.pkl)
 
 ## 🎯 Project Overview
 
@@ -240,3 +241,4 @@ Click the **"🌙 Dark / ☀️ Light"** button to toggle between themes.
 - **Threshold Detection** - Industry-standard warning levels
 
 ---
+
